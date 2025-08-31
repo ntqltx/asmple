@@ -8,7 +8,6 @@ Created only for fun and learning. Contributions are welcome!
 - Simple integer operations `(add, sub, mul, div, mod)`
 - Comparison + conditional jumps `(cmp, je, jne, jl, jg, jle, jge)`
 - Labels and print function
-
 <br/>
 
 # Test Run
