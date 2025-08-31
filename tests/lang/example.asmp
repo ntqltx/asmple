@@ -1,0 +1,17 @@
+let reg0 = 5
+let reg1 = 10
+let reg2 = 15
+
+start:
+    add reg0, reg1
+    print reg0
+
+    cmp reg0, reg2
+    jne sabaken
+
+    mul reg1, 5
+    print reg1
+
+sabaken:
+    div reg2, 3
+    print reg2

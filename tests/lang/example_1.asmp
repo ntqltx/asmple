@@ -1,0 +1,12 @@
+let reg0 = 0
+let reg1 = 3
+
+start:
+    add reg0, 7
+    mul reg0, 3
+    
+greater:
+    mul reg1, 10
+    
+    print reg1
+    print reg0
